@@ -3,4 +3,4 @@
 -spring onions
 -potato
 # Instructions
--put a pan onto boil
+-put peas into a pan.
